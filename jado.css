@@ -1,0 +1,37 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.u{
+    border: 1px solid #000;
+    width: 300px;
+    margin: 10px;
+}
+.otasi{
+    border: 1px solid #000;
+    height: 400px;
+    background-image: url(rasimlar/travel_qiz.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: right top 30px;
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    background-image: url(rasimlar/burchak.png);
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.tugma{
+    padding: 8px 20px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    border-color: black;
+    
+}
